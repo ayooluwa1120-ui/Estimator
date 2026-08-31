@@ -17,7 +17,7 @@
  
         .page { max-width: 1080px; margin: 0 auto; }
         .hero { max-width: 620px; margin-bottom: 40px; animation: rise .6s ease both; }
-        .eyebrow { font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: .12em; color: var(--stamp); }
+        .eyebrow { font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: .12em; color: #fff; }
         .hero h1 { font-family: 'Space Grotesk', sans-serif; font-size: clamp(28px, 4vw, 42px); line-height: 1.08; margin: 10px 0 14px; font-weight: 600; }
         .hero .sub { color: #b5b1a8; font-size: 15px; line-height: 1.55; }
  
